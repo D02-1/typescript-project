@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "module": "es2015",
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
